@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/niyatigupta/Desktop/2020BCSE073/a'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _reset, symObjAddr: 0x0, symBinAddr: 0x1000028F0, symSize: 0x58 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _zz, symObjAddr: 0x3538, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _last_index, symObjAddr: 0x353C, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x7E, offset: 0x7E, size: 0x8, addend: 0x0, symName: _NFA_FILE, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x9F, offset: 0x9F, size: 0x8, addend: 0x0, symName: _buffer, symBinAddr: 0x10000806C, symSize: 0x0 }
+  - { offsetInCU: 0xB4, offset: 0xB4, size: 0x8, addend: 0x0, symName: _dfa, symBinAddr: 0x1000080D0, symSize: 0x0 }
+  - { offsetInCU: 0xEF, offset: 0xEF, size: 0x8, addend: 0x0, symName: _fp, symBinAddr: 0x1000080E0, symSize: 0x0 }
+  - { offsetInCU: 0x2F4, offset: 0x2F4, size: 0x8, addend: 0x0, symName: _symbols, symBinAddr: 0x1000080E8, symSize: 0x0 }
+  - { offsetInCU: 0x2FD, offset: 0x2FD, size: 0x8, addend: 0x0, symName: _reset, symObjAddr: 0x0, symBinAddr: 0x1000028F0, symSize: 0x58 }
+  - { offsetInCU: 0x33D, offset: 0x33D, size: 0x8, addend: 0x0, symName: _check, symObjAddr: 0x58, symBinAddr: 0x100002948, symSize: 0x90 }
+  - { offsetInCU: 0x399, offset: 0x399, size: 0x8, addend: 0x0, symName: _state, symObjAddr: 0xE8, symBinAddr: 0x1000029D8, symSize: 0xA0 }
+  - { offsetInCU: 0x3F5, offset: 0x3F5, size: 0x8, addend: 0x0, symName: _closure, symObjAddr: 0x188, symBinAddr: 0x100002A78, symSize: 0x80 }
+  - { offsetInCU: 0x439, offset: 0x439, size: 0x8, addend: 0x0, symName: _indexing, symObjAddr: 0x208, symBinAddr: 0x100002AF8, symSize: 0x84 }
+  - { offsetInCU: 0x46F, offset: 0x46F, size: 0x8, addend: 0x0, symName: _Display_closure, symObjAddr: 0x28C, symBinAddr: 0x100002B7C, symSize: 0x260 }
+  - { offsetInCU: 0x4F5, offset: 0x4F5, size: 0x8, addend: 0x0, symName: _new_states, symObjAddr: 0x4EC, symBinAddr: 0x100002DDC, symSize: 0xE0 }
+  - { offsetInCU: 0x539, offset: 0x539, size: 0x8, addend: 0x0, symName: _trans, symObjAddr: 0x5CC, symBinAddr: 0x100002EBC, symSize: 0x264 }
+  - { offsetInCU: 0x64B, offset: 0x64B, size: 0x8, addend: 0x0, symName: _Display_DFA, symObjAddr: 0x830, symBinAddr: 0x100003120, symSize: 0x274 }
+  - { offsetInCU: 0x6A7, offset: 0x6A7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xAA4, symBinAddr: 0x100003394, symSize: 0xA04 }
+...
